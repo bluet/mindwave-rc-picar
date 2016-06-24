@@ -1,0 +1,33 @@
+{
+  "name": "mindwave-rc-picar",
+  "version": "1.0.0",
+  "description": "An RC (remote control) Car made with Raspberry Pi 3 and controlled by MindWave (Brain wave)",
+  "main": "index.js",
+  "dependencies": {
+    "exec": "^0.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlueT/mindwave-rc-picar.git"
+  },
+  "keywords": [
+    "rpi",
+    "raspberry",
+    "pi",
+    "rc",
+    "remote",
+    "control",
+    "car",
+    "mindwave"
+  ],
+  "author": "BlueT - Matthew Lien <BlueT@BlueT.org>",
+  "license": "AGPL",
+  "bugs": {
+    "url": "https://github.com/BlueT/mindwave-rc-picar/issues"
+  },
+  "homepage": "https://github.com/BlueT/mindwave-rc-picar#readme"
+}
